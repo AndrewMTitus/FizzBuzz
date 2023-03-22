@@ -22,7 +22,7 @@ function getValues(){
 }
 
 //do fizz buzz
-function fizzBuzz(fizzValue, buzzValue){
+function fizzBuzz(fizzValue, buzzValue) {
 
     //init the returnArray
     let returnArray = [];
